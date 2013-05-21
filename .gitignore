@@ -6,3 +6,7 @@
 /local
 /share
 /env
+/build
+/dist
+*.pyc*
+/django_jquery_file_upload.egg-info
